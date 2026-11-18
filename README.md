@@ -219,3 +219,7 @@ Visit **`http://localhost:3000`** in your browser.
 ---
 
 *© 2026 AICTE FDR Shield. Built with pride for Smart India Hackathon 2026.*
+
+
+
+
