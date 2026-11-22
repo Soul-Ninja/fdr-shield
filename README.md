@@ -1,6 +1,6 @@
 # AICTE FDR Shield 🛡️
 > **Automated Security Deposit & Fixed Deposit Receipt (FDR) Monitoring Platform**  
-> *Developed for Smart India Hackathon (SIH) 2026 | Problem Statement ID: 26265 | Theme: Smart Automation*  
+> **Developed for Smart India Hackathon (SIH) 2026 | Problem Statement ID: 26265 | Theme: Smart Automation**  
 > **Team Name:** FLUXDCE | **Team ID:** 199409 | **Category:** Software | **Institution:** Dronacharya College of Engineering (DCE)
 
 [![Demo Video](https://img.shields.io/badge/Demo_Video-Watch_on_YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/_q_NSYcsIc8?si=9OHKo1z36eukq9Sj)
